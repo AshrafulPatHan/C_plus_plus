@@ -1,22 +1,20 @@
 #include <iostream>
-// #include <stdio.h>
-// #include <string>
+
 
 using namespace std;
 
 int main(){
     // variable data
-    // int a;
-    // int b;
-
-    // a = 2;
-    // b = 4;
+    int a = 2;
+    int b = 4;
 
     // swap the value
-
+    int temp = a;
+    a = b;
+    b = temp;
 
     // the print data
-    printf ("h");
+    std::cout << a;
     return 0;
 }
 
