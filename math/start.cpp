@@ -5,6 +5,7 @@ int main(){
     int y = 3;
     int z = x % y;
 
+    // out put
     std::cout << z;
     return 0;
 }
