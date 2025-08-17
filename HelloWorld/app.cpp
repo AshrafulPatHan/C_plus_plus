@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main(){
-    std::cout << "My Name is ashraful" << std::endl;
+int main() {
+    std::cout << "hi mom" << std::endl;
     return 0;
 }
