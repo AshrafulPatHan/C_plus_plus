@@ -5,3 +5,7 @@ int main() {
     return 0;
 }
 
+// g++ main.cpp -o main
+// ./main
+
+
