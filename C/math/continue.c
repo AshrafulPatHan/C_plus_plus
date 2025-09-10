@@ -2,13 +2,12 @@
 
 int main()
 {
-    int i ;
-    for (i= 1 ; i <=5; i =i+1)
+    int i;
+    for (i = 1; i <= 5; i = i + 1)
     {
         if (i--)
-        continue;
-        printf("%d",i);
-        
+            continue;
+        printf("%d", i);
     }
     return 0;
 }
