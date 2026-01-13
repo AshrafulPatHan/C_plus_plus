@@ -20,7 +20,7 @@ int main(int argc, char *argv[]) {
     int status;
 
     app = gtk_application_new(
-        "com.example.gtk4test",
+        "com.example.gtk4test",gc
         G_APPLICATION_DEFAULT_FLAGS
     );
 

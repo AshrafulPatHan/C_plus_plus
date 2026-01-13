@@ -1,4 +1,4 @@
-// gcc $(pkg-config --cflags gtk4) -o hello-world-gtk hello-world-gtk.c $(pkg-config --libs gtk4)
+// gcc $(pkg-config --cflags gtk4) -o hello-world-gtk HelloWorld.c $(pkg-config --libs gtk4)
 
 
 #include <gtk/gtk.h>
