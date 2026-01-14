@@ -42,7 +42,7 @@ static void activate(GtkApplication *app, gpointer user_data) {
     // main window
     window = gtk_application_window_new(app);
     gtk_window_set_title(GTK_WINDOW(window), "GTK Calculator");
-    gtk_window_set_default_size(GTK_WINDOW(window), 300, 200);
+    gtk_window_set_default_size(GTK_WINDOW(window), 300, 250);
 
     // vertical box
     vbox = gtk_box_new(GTK_ORIENTATION_VERTICAL, 8);
