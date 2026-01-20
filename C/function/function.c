@@ -16,7 +16,7 @@ void aboutMe(char name[], int age) {
 int main(){
     myFunction(); 
     SumTowNum(2,4); // sum function
-    aboutMe("ashraful",18);
+    aboutMe("ashraful pathan",18);
     return 0;
 }
 
