@@ -10,6 +10,6 @@ int main()
             printf("%d\n",n);
         }
     }
-    printf("%d", 7 % 2);
+    
     return 0;
 }

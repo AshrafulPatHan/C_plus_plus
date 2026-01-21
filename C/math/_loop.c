@@ -6,7 +6,7 @@ int main()
     i = 0;
     
     // loop is running 
-    while ( i < 5 ){
+    while ( i < 100 ){
         printf("Fuck you bangladesh.%d \n", i + 1 );
         i = i + 1;
     }

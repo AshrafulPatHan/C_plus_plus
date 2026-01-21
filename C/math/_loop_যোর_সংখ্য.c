@@ -12,6 +12,5 @@ int main()
         }
         n = n+1;
     }
-    printf("%d", 7 % 2);
     return 0;
 }
