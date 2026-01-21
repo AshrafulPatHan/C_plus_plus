@@ -1,8 +1,9 @@
+// gcc 22_math.c -o 22 -lm
+
 #include <stdio.h>
 #include <math.h>
 
-int main()
-{
+int main(){
     double p,x,y;
     scanf("%lf %lf",&x,&y);
     p = pow(x,y);
