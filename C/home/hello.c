@@ -2,7 +2,7 @@
 
 int main(){
     char ch;
-    ch = 'X';
-    printf("The character is %c",ch);
+    ch = 'A';
+    printf("The character is %c \n",ch);
     return 0;
 }
